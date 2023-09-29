@@ -38,7 +38,7 @@ If you are a fellow Developer I would love to have people Leave recommendations 
 
 Please email me at durondbell13@gmail.com to Get in contact with me.
 
-I accept messages from Strangers as I am a friendly person by nature and am always down to learn and work together with develpers in the name of Education
+I accept messages from Strangers as I am a friendly person by nature and am always down to learn and work together with developers in the name of Education
 
 Thanks for reading
 
