@@ -8,7 +8,13 @@
 d-bell-proffesionally/d-bell-proffesionally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi, I'm Durond Bell or I also go by Marsell. I have been working in I.T. as a Computer Administrator for the Last 3 years. I'm comfortable in a Windows Management environment as well as Linux.
+Hi, I'm Durond Bell or I also go by Marsell. I have been working in I.T. as a Computer Administrator for the Last 2 years. I've worked with both Windows and Linux Machines, and I would rate my compentency somewhere in between PowerUser and Intermediate. 
+
+One of the things that quickly surprised me in I.T. is 1. The parabloic learning curve and 2. The fact that in this field how you'll never stop learning.
+
+Being one of the smart kids growing up I never had to really struggle when it came to learning new things. But teaching myself to program has been one of my most trying battles.
+
+But back to my career.
 
 I've administered Windows Computer and have been working in a Windows Domain for most of my career, 
 
